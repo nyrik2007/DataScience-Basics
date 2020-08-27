@@ -1,2 +1,2 @@
 # DataScience-Basics
-Clasterization, Statistics, Neural networks, Linear models, regressions.
+Clasterization, Statistics, Neural networks, Linear models, regressions, quality metrics.
